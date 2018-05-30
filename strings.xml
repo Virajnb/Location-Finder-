@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">"Location Finder  "</string>
     <string name="tracking_enabled_notif">Tracking is currently enabled. Tap to cancel.</string>
-    <string name="test_email">virajbhatkar15@gmail.com</string>
-    <string name="test_password">007007007vb</string>
+    <string name="test_email">xyz@gmail.com</string>
+    <string name="test_password">"password"</string>
     <string name="firebase_path">location</string>
 </resources>
